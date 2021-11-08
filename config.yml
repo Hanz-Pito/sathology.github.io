@@ -2,7 +2,7 @@ baseURL: "https://hanz-pito.github.io"
 
 title: ExampleSite
 paginate: 5
-theme: PaperMod
+theme: "PaperMod"
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -57,7 +57,7 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
+    title: Sathology
     subtitle: "This is subtitle"
     imageUrl: "<img location>"
     imageWidth: 120
